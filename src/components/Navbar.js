@@ -1,11 +1,12 @@
+import './navbar.css'
+
 const Navbar = () => {
     return (
         <nav className="navbar">
-            <h1>MyBlog</h1>
-            <div className="links">
-                <a href="/">Home</a>
-                <a href="/extra">Extra</a>
-            </div>
+            <ul className='links'>
+                <li><a href="/">MySite</a></li>
+                <li><a href="/extras">Extras</a></li>
+            </ul>
         </nav>
     );
 }
