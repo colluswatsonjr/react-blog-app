@@ -1,7 +1,7 @@
 const Extra = () => {
     return ( 
         <div>
-            <h3>Extras</h3>
+            <h1>Extras</h1>
         </div>
      );
 }
