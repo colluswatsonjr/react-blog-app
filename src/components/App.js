@@ -17,12 +17,13 @@ function App() {
   }, [])
 
   return (
-    <div>
+    <div className='app'>
       {loading ? 'Loading...' :
-        <div className="App">
+        <div>
           <Navbar />
 
           <Home />
+
           <Extra />
 
           <Footer />
