@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "title": "I was born on this day...",
+      "content": "On this day i was born, in west covina california.",
+      "created": "1996-06-10",
+      "id": 1
+    },
+    {
+      "title": "Random day...",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?",
+      "created": "2022-04-28",
+      "id": 2
+    },
+    {
+      "title": "This is the title...",
+      "content": "This is the title...Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, totam velit? Iure nemo labore inventore?",
+      "created": "2022-04-28",
+      "id": 3
+    },
+    {
+      "title": "",
+      "content": "",
+      "created": "2022-04-28",
+      "id": 4
+    }
+  ]
+}
