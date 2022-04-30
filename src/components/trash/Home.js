@@ -1,10 +1,9 @@
-import './Home.css'
+import '../css/home.css'
 
 import { useEffect, useState } from "react";
 
 const Home = () => {
     const [posts, setPosts] = useState([])
-    const [displayPost, setDisplayPost] = useState({})
 
     const [formData, setFormData] = useState({
         title: '',
@@ -73,9 +72,6 @@ const Home = () => {
 
             <div className="container">
                 {createPost}
-            </div>
-            <div className='display'>
-                {/* {displayPost} */}
             </div>
         </div>
     );
